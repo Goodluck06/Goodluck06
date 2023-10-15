@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Goodluck06
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning mobile app development
-- 💞️ I’m looking to collaborate on flutter 
+- 👋 Hi, I’m Goodluck Bahati
+- 👀 I’m interested in Backend Development.
+- 🌱 Currently I use Flutter for mobile app development
+- 🌱 Im taking python bootcamp from udemy by Dr. Angela Yu
+- 💞️ I’m looking to collaborate on flutter and Python and PHP
 - 📫 Reach me through whatsap +255-622-766-714
 
 <!---
